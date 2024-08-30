@@ -1,7 +1,7 @@
 # ¡Hola! Soy Josue Ceh 👋
 
 ## Sobre mí
-Soy un desarrollador web con experiencia en HTML, CSS y JavaScript, y también tengo experiencia en desarrollo de videojuegos con Unity. Me apasiona crear aplicaciones web  funcionales y atractivos. Actualmente estoy estudiando programación en la universidad y trabajando en varios proyectos interesantes.
+Soy un estudiante de programacion y  desarrollador web con experiencia en HTML, CSS y JavaScript, PHP-Laravel , C# y también tengo experiencia en desarrollo de videojuegos con Unity. Me apasiona crear aplicaciones web  funcionales y atractivos. Actualmente estoy estudiando programación en la universidad y trabajando en varios proyectos interesantes.
 
 ## Proyectos Destacados
 - [Mini Videojuego en 2D en Unity](https://ghostvdz.itch.io/holkan): Participé en la creación de un mini videojuego en 2D utilizando Unity como parte de un proyecto universitario.
