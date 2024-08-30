@@ -6,7 +6,7 @@ Soy un desarrollador web con experiencia en HTML, CSS y JavaScript, y también t
 ## Proyectos Destacados
 - [Mini Videojuego en 2D en Unity](https://ghostvdz.itch.io/holkan): Participé en la creación de un mini videojuego en 2D utilizando Unity como parte de un proyecto universitario.
 - [Landing Page del Videojuego](https://github.com/josue-ecp/landing-page): Desarrollé la landing page para el videojuego mencionado anteriormente, mostrando su diseño y características principales.
-- [Réplica de Netflix](https://github.com/josue-ecp/Netflix): Creé una réplica funcional de la interfaz de Netflix, destacando habilidades en diseño web y desarrollo de interfaces de usuario.
+- [Réplica de Netflix](https://github.com/josue-ecp/Netflixx-Clon): Creé una réplica funcional de la interfaz de Netflix, destacando habilidades en diseño web y desarrollo de interfaces de usuario.
 
 
 ## Metas
