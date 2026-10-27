@@ -1,20 +1,69 @@
-# ¡Hola! Soy Josue Ceh 👋
+# ¡Hola! Soy Josué Ceh 👋
 
-## Sobre mí
-Soy un estudiante de programacion y  desarrollador web con experiencia en HTML, CSS, JavaScript, PHP-Laravel , C# y también tengo experiencia en desarrollo de videojuegos con Unity. Me apasiona crear aplicaciones web  funcionales y atractivos. Actualmente estoy estudiando programación en la universidad y trabajando en varios proyectos universitarios interesantes.
+### 💻 Desarrollador Web | Frontend & Full Stack
 
-## Proyectos Destacados
-- [Mini Videojuego en 2D en Unity](https://ghostvdz.itch.io/holkan): Participé en la creación de un mini videojuego en 2D utilizando Unity como parte de un proyecto universitario.
-- [Landing Page del Videojuego](https://github.com/josue-ecp/landing-page): Desarrollé la landing page para el videojuego mencionado anteriormente, mostrando su diseño y características principales.
-- [Réplica de Netflix](https://github.com/josue-ecp/Netflixx-Clon): Creé una réplica funcional de la interfaz de Netflix, destacando habilidades en diseño web y desarrollo de interfaces de usuario.
+Soy desarrollador web y estudiante de Ingeniería en Tecnologías de la Información. Cuento con un TSU en Tecnologías de la Información, en el área de Entornos Virtuales y Negocios Digitales.
+
+Me apasiona crear aplicaciones web funcionales, interfaces intuitivas y experiencias digitales atractivas. He participado en proyectos universitarios y colaborativos, trabajando tanto en frontend como en backend. También tengo experiencia en desarrollo de videojuegos con Unity y me interesa seguir explorando nuevas tecnologías, especialmente la inteligencia artificial y su aplicación en proyectos reales.
+
+## 🚀 Tecnologías y herramientas
+
+- **Frontend:** HTML, CSS, JavaScript, React, TypeScript
+- **Backend:** PHP, Laravel, C#
+- **Bases de datos:** Experiencia trabajando con bases de datos en proyectos web
+- **Desarrollo de videojuegos:** Unity y C#
+- **Otros intereses:** Inteligencia artificial, integración de sistemas y automatización
+
+## 🌟 Proyectos destacados
+
+### 🏦 CREDURIX — Sistema web de préstamos
+Sistema desarrollado en equipo como proyecto universitario. Incluye un panel administrativo y aplicaciones web progresivas (PWA) para clientes y cobradores.
+
+🔗 [Ver proyecto](https://sistema-prestamos-front-sigma.vercel.app/login)
+
+### 🏨 Villas Flamingos — Desarrollo frontend
+Colaboré como programador frontend en la reconstrucción del sitio web del hotel, encargándome del desarrollo de las vistas y la presentación visual.
+
+🔗 [Visitar sitio web](https://villasflamingos.com/)
+
+### ☕ Capreto — Landing page para cafetería
+Landing page enfocada en presentar la identidad de una cafetería mediante una experiencia visual atractiva.
+
+🔗 [Ver proyecto](https://capreto-landing-git-main-josue-s-projects16.vercel.app/)
+
+### 📚 Aplicación web educativa
+Proyecto universitario full stack con una interfaz para niños y un panel para profesores que permite administrar materias y preguntas.
+
+🔗 [Ver aplicación](https://appweb-educativa.vercel.app/)
+
+### 📊 ScraperTracker
+Proyecto universitario enfocado en el seguimiento de procesos de scraping web.
+
+🔗 [Ver proyecto](https://scraping-tracker-frontend.vercel.app/)
+
+### 🎮 Holkan — Videojuego 2D
+Participé en el desarrollo de un min videojuego en 2D utilizando Unity como parte de un proyecto universitario.
+
+🔗 [Jugar en itch.io](https://ghostvdz.itch.io/holkan)
+
+### 🎨 Landing page del videojuego
+Página web creada para presentar el videojuego, su diseño y sus características principales.
+
+🔗 [Ver repositorio en GitHub](https://github.com/josue-ecp/landing-page)
 
 
-## Metas
-- Continuar aprendiendo y mejorando mis habilidades en desarrollo web y creación de videojuegos.
-- Continuar aprendiendo mas lenguajes de programacion
-- Contribuir a proyectos de código abierto y colaborar con otros desarrolladores en la creación de aplicaciones innovadoras.
+## 🎯 Objetivos
 
-## Contacto
-Puedes encontrarme en [Instagram](https://www.instagram.com/josue.ecp/?igsh=MTcxcW82cXp1ajJyZQ%3D%3D) o enviarme un correo a [josueceh1@gmail.com](mailto:josueceh1@gmail.com).
+- Seguir fortaleciendo mis habilidades en desarrollo frontend y backend.
+- Profundizar en inteligencia artificial e integración de nuevas tecnologías.
+- Participar en proyectos reales y colaborar con otros desarrolladores.
+- Crear soluciones digitales útiles, funcionales e innovadoras.
 
-¡Gracias por visitar mi perfil!
+## 📫 Contacto
+
+- 📧 **Correo:** [josueceh15@gmail.com](mailto:josueceh15@gmail.com)
+- 📸 **Instagram:** [@josue.ecp](https://www.instagram.com/josue.ecp/)
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
